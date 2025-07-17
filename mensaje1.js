@@ -1,5 +1,5 @@
 const mensaje1 = () => {
-  console.log("Mensaje 1 aun en pruebas");
+  console.log("Mensaje 1 terminado");
 };
 
 module.exports = mensaje1;
