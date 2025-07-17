@@ -1,5 +1,5 @@
-const mensaje1 = () => {
+const mensaje3 = () => {
   console.log("Mensaje 3 aun en pruebas");
 };
 
-module.exports = mensaje1;
+module.exports = mensaje3;
